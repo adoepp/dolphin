@@ -2,7 +2,7 @@
 title: Christoph Eberle
 role: PhD student
 avatar_filename: avatar.jpg
-bio: PhD student
+bio: PhD student @ LMU
 social: []
 superuser: false
 user_groups:
