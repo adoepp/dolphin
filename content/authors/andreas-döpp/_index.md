@@ -10,6 +10,11 @@ social:
     link: https://scholar.google.co.jp/citations?hl=de&user=luCd6YoAAAAJ&view_op=list_works&sortby=pubdate
     icon_pack: ai
     icon: google-scholar
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Andreas_Doepp
+    icon_pack: ai
+    icon: researchgate
 superuser: true
 user_groups:
   - Principal Investigators
