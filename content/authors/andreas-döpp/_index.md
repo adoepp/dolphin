@@ -1,7 +1,7 @@
 ---
 title: Andreas Döpp
 role: Group Leader
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: "Andreas Döpp is a research group leader at the Petawatt Physics Laboratory
   (PULSE) of the Centre for Advanced Laser Applications in Munich, Germany. "
 social:
