@@ -15,6 +15,9 @@ social:
     link: https://www.researchgate.net/profile/Andreas_Doepp
     icon_pack: ai
     icon: researchgate
+organizations:
+  - name: CALA
+    url: http://cala-laser.de
 superuser: true
 user_groups:
   - Principal Investigators
