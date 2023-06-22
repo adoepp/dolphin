@@ -16,8 +16,10 @@ social:
     icon_pack: ai
     icon: researchgate
 organizations:
-  - name: CALA
-    url: http://cala-laser.de
+  - name: PULSE@LMU
+    url: https://www.pulse.physik.uni-muenchen.de
+  - name: Oxford Physics Department
+    url: https://www.physics.ox.ac.uk/our-people/dopp
 superuser: true
 user_groups:
   - Principal Investigators
