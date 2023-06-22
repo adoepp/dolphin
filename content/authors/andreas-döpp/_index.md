@@ -10,5 +10,7 @@ social:
     link: https://scholar.google.co.jp/citations?hl=de&user=luCd6YoAAAAJ&view_op=list_works&sortby=pubdate
     icon_pack: ai
     icon: google-scholar
-superuser: false
+superuser: true
+user_groups:
+  - Researchers
 ---
