@@ -15,6 +15,11 @@ social:
     link: https://www.researchgate.net/profile/Andreas_Doepp
     icon_pack: ai
     icon: researchgate
+  - display:
+      header: false
+    link: https://github.com/adoepp
+    icon_pack: fab
+    icon: fa-github
 organizations:
   - name: PULSE@LMU
     url: https://www.pulse.physik.uni-muenchen.de
