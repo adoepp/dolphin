@@ -1,6 +1,6 @@
 ---
 title: Sunny Howard
-role: PhD student
+role: PhD student @ Oxford
 avatar_filename: avatar.jpg
 bio: PhD student
 social: []
