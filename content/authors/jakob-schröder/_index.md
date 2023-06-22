@@ -1,6 +1,6 @@
 ---
 title: Jakob Schröder
-role: PhD Student
+role: PhD Student @ LMU
 avatar_filename: avatar.jpg
 bio: PhD Student
 social: []
