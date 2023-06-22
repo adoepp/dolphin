@@ -19,9 +19,9 @@ social:
       header: false
     link: https://github.com/adoepp
     icon_pack: fab
-    icon: fa-github
+    icon: github
 organizations:
-  - name: PULSE@LMU
+  - name: PULSE @ LMU
     url: https://www.pulse.physik.uni-muenchen.de
   - name: Oxford Physics Department
     url: https://www.physics.ox.ac.uk/our-people/dopp
