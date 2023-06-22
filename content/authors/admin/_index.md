@@ -35,8 +35,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 superuser: false
-user_groups:
-  - Researchers
+user_groups: []
 last_name: Bighetti
 highlight_name: false
 first_name: Nelson
