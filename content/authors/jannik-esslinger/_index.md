@@ -1,6 +1,6 @@
 ---
 title: Jannik Esslinger
-role: PhD student
+role: PhD student @ LMU
 avatar_filename: avatar
 bio: PhD student @ LMU
 social: []
