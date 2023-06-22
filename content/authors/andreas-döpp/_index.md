@@ -10,16 +10,19 @@ social:
     link: https://scholar.google.co.jp/citations?hl=de&user=luCd6YoAAAAJ&view_op=list_works&sortby=pubdate
     icon_pack: ai
     icon: google-scholar
-  - display:
-      header: false
-    link: https://www.researchgate.net/profile/Andreas_Doepp
-    icon_pack: ai
-    icon: researchgate
+    label: Google Scholar
   - display:
       header: false
     link: https://github.com/adoepp
     icon_pack: fab
     icon: github
+    label: Github
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Andreas_Doepp
+    icon_pack: ai
+    icon: researchgate
+    label: Researchgate
 organizations:
   - name: PULSE @ LMU
     url: https://www.pulse.physik.uni-muenchen.de
