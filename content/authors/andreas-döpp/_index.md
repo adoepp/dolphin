@@ -28,6 +28,11 @@ organizations:
     url: https://www.pulse.physik.uni-muenchen.de
   - name: Oxford Physics Department
     url: https://www.physics.ox.ac.uk/our-people/dopp
+education:
+  courses:
+    - course: PhD
+      institution: Ecole Polytechnique
+      year: 2015
 superuser: true
 user_groups:
   - Principal Investigators
