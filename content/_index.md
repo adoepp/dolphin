@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        DOLPHIN Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        At **DOLPHIN** (Data-driven optimization of Laser Physics and Interactions) we deploy latest machine learning techniques in the context of optics and photonics research.
   
   - block: collection
     content:
