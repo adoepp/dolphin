@@ -14,3 +14,4 @@ superuser: true
 user_groups:
   - Researchers
 ---
+Andreas Döpp is a research group leader at the Petawatt Physics Laboratory (PULSE) of the Centre for Advanced Laser Applications in Munich, Germany.
