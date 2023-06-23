@@ -1,11 +1,11 @@
 ---
 title: 'Hyperspectral Compressive Wavefront Sensing'
 authors:
-  - Sunny Howard
-  - Jannik Esslinger
-  - Robin Wang
-  - Peter Norreys
-  - Andreas Dopp
+  - S. Howard
+  - J. Esslinger
+  - R. Wang # [https://groups.physics.ox.ac.uk/norreys/ProfileWang.html]
+  - P. Norreys
+  - A. Doepp
 date: '2023-06-22T00:00:00Z'
 doi: ''
 
@@ -33,13 +33,9 @@ featured: true
 
 
 url_pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/216AC43C1ECCC6C94F725BD080B1571A/S2095471922000354a.pdf/hyperspectral-compressive-wavefront-sensing.pdf
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - name: URL
+    url: https://www.cambridge.org/core/journals/high-power-laser-science-and-engineering/article/hyperspectral-compressive-wavefront-sensing/216AC43C1ECCC6C94F725BD080B1571A
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

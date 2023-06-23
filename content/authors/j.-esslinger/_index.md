@@ -1,5 +1,8 @@
 ---
-title: Christoph Eberle
+title: Jannik Esslinger
+authors:
+  - j.-esslinger
+  - J. Esslinger
 role: PhD student @ LMU
 avatar_filename: avatar.jpg
 bio: PhD student @ LMU

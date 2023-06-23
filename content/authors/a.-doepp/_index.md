@@ -1,5 +1,11 @@
 ---
 title: Andreas Döpp
+authors: 
+  - A. Döpp
+  - A. Doepp
+  - a.-doepp
+  - andreas-dopp
+
 role: Group Leader
 avatar_filename: avatar.jpg
 bio: "Andreas Döpp is a research group leader at the Petawatt Physics Laboratory

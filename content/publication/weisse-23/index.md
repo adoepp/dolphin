@@ -14,7 +14,7 @@ authors:
 - P. Norreys
 - J. Schreiber
 - S. Karsch
-- A. Döpp
+- A. Doepp
 tags:
 - Fourier transform spectroscopy; High power lasers; Laser systems; Optical components;
   Phase measurement; Phase retrieval
