@@ -5,7 +5,7 @@ title: Measuring spatio-temporal couplings using modal spatio-spectral wavefront
 subtitle: ''
 summary: ''
 authors:
-- N. Weisse
+- N. Weiße
 - J. Esslinger
 - S. Howard
 - F. M. Foerster
@@ -14,7 +14,7 @@ authors:
 - P. Norreys
 - J. Schreiber
 - S. Karsch
-- A. Doepp
+- A. Döpp
 tags:
 - Fourier transform spectroscopy; High power lasers; Laser systems; Optical components;
   Phase measurement; Phase retrieval

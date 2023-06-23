@@ -1,9 +1,8 @@
 ---
 title: Andreas Döpp
 authors: 
-  - A. Döpp
-  - A. Doepp
   - a.-doepp
+  - a.-dopp
   - andreas-dopp
 
 role: Group Leader

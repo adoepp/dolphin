@@ -5,7 +5,7 @@ authors:
   - J. Esslinger
   - R. Wang # [https://groups.physics.ox.ac.uk/norreys/ProfileWang.html]
   - P. Norreys
-  - A. Doepp
+  - A. Döpp
 date: '2023-06-22T00:00:00Z'
 doi: ''
 
