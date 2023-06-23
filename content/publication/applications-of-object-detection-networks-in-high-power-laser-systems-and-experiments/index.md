@@ -8,6 +8,7 @@ authors:
   - F. Haberstroh
   - S. Karsch
   - A. Döpp
+doi: https://doi.org/10.1017/hpl.2023.1
 publication: High Power Laser Science and Engineering
 abstract: The recent advent of deep artificial neural networks has resulted in a
   dramatic increase in performance for object classification and detection.
@@ -29,6 +30,8 @@ abstract: The recent advent of deep artificial neural networks has resulted in a
   the control and diagnostic tools, especially for those involving image data.
 draft: false
 featured: false
+tags:
+  - Object Detection
 image:
   filename: featured.jpg
   focal_point: Smart
