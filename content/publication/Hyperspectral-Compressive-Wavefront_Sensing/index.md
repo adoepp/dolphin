@@ -5,7 +5,7 @@ authors:
   - Jannik Esslinger
   - Robin Wang
   - Peter Norreys
-  - Andreas Döpp
+  - Andreas Dopp
 date: '2023-06-22T00:00:00Z'
 doi: ''
 
