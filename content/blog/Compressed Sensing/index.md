@@ -5,6 +5,8 @@ authors:
     - S. Howard
 ---
 
+Compressed Sensing describes the efficient capture of a sparse signal, with fewer samples than is classically required by the Nyquist sampling theorem. This notebook will take a look at the more counterintuitive parts of this technique.
+
 # Preliminaries
 
 ### Import necessary libraries
@@ -29,12 +31,12 @@ Here, our measurement device is only capable of integrating over the signal (muc
 The most obvious way of measuring the full signal, is to perform $4$ measurements of this sort, to look in each element. These sampling vectors can be put together into the sampling matrix $\mathbf{\Phi}$, which will have the form of an identity matrix.
 
 
-$ \mathbf{\Phi} = \begin{bmatrix}
-1 & 0 & 0  & 0 \\
-0 & 1 & 0  & 0 \\
-0 & 0 & 1  & 0 \\
-0 & 0 & 0 & 1 \\
-\end{bmatrix}$
+$$ \mathbf{\Phi} = \\begin{bmatrix}
+1 & 0 & 0  & 0 \\\
+0 & 1 & 0  & 0 \\\
+0 & 0 & 1  & 0 \\\
+0 & 0 & 0 & 1 \\\
+\\end{bmatrix}$$
 
 
 
@@ -169,7 +171,7 @@ To determine the ideal type of sampling vector, $\Phi_{i}$, we express the measu
 
 
 
-### $y_i = \Phi_i x  = (\Phi_i \mathbf{\Psi}) f,\:\:$
+### $y_i = \Phi_i x  = (\Phi_i \mathbf{\Psi}) f,$
 
 
 
@@ -308,7 +310,7 @@ Okay so we've seen that its important to create a measurement matrix to sample t
 
 Compressed sensing deals with an under-determined system of equations:  $y=(\Phi \Psi) f$. There are many possible $f$ that satisfy this equation, but we are looking for the most sparse one. Thus, the equation we wish to solve is:
 
-### $\\textrm{min}_{\\tilde{f}} |\\tilde{f}|_{0} \:\:\: \textrm{subject to}\:\:\: y = (\Phi\Psi) \tilde{f},$
+### $$ \text{min}\_{\tilde{f}} |\tilde{f}|_{0} \\:\\:\\: \text{subject to}\\:\\:\\: y = (\Phi\Psi) \tilde{f}$$
 
 where $| |_{0}$ denotes the L0 norm (counting non-zero elements). However, this is not a very nice function to optimize, as the L0 norm is not smooth. Candes *et al.* found that minimizing the L1 norm can actually find the sparse solution in most situations. For the next discussion we will look into why this is possible.
 
@@ -571,37 +573,7 @@ plt.legend([r'True $f$',r'Pred $f$'])
 
 ```
 
-    0
-    100
-    200
-    300
-    400
-    500
-    600
-    700
-    800
-    900
-    1000
-    1100
-    1200
-    1300
-    1400
-    1500
-    1600
-    1700
-    1800
-    1900
-    
-
-
-
-
-    <matplotlib.legend.Legend at 0x7f1072127730>
-
-
-
-
-    
+   
 ![png](tutorial/Compressed_Sensing_final_26_2.png)
     
 
@@ -609,8 +581,3 @@ plt.legend([r'True $f$',r'Pred $f$'])
 
     
 ![png](tutorial/Compressed_Sensing_final_26_3.png)
-    
-
-
-
-![alt text](cs.png "Title")
